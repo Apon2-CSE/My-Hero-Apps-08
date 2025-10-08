@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@plugin "daisyui";
+.navContainer a.active {
+  color: #7c3aed;
+  border-bottom: 2px solid #7c3aed;
+}
