@@ -7,14 +7,14 @@
     "description": "A freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms. It allows users to send text messages and voice messages, make voice and video calls, and share images, documents, user locations, and other content. WhatsApp's client application runs on mobile devices but is also accessible from desktop computers, as long as the user's mobile device remains connected to the Internet while they use the desktop app. The service requires a cellular mobile telephone number to sign up. Known for its end-to-end encryption, it ensures secure communication for over two billion users worldwide, making it the most popular messaging app globally.",
     "size": 55,
     "reviews": 185345987,
-    "ratingAvg": 4.3,
-    "downloads": 5000000000,
+    "ratingAvg": 4.9,
+    "downloads": 6000000000,
     "ratings": [
       { "name": "1 star", "count": 20123456 },
-      { "name": "2 star", "count": 8456789 },
+      { "name": "2 star", "count": 84567890 },
       { "name": "3 star", "count": 15789123 },
       { "name": "4 star", "count": 28987654 },
-      { "name": "5 star", "count": 111988965 }
+      { "name": "5 star", "count": 111989999 }
     ]
   },
   {
@@ -26,13 +26,13 @@
     "size": 120,
     "reviews": 150234876,
     "ratingAvg": 4.5,
-    "downloads": 3000000000,
+    "downloads": 4500000000,
     "ratings": [
-      { "name": "1 star", "count": 15234567 },
-      { "name": "2 star", "count": 6789123 },
+      { "name": "1 star", "count": 152345 },
+      { "name": "2 star", "count": 6789128 },
       { "name": "3 star", "count": 10456789 },
-      { "name": "4 star", "count": 25765432 },
-      { "name": "5 star", "count": 91988965 }
+      { "name": "4 star", "count": 257654324 },
+      { "name": "5 star", "count": 919889652 }
     ]
   },
   {
@@ -42,15 +42,15 @@
     "image": "https://img.icons8.com/?size=100&id=32323&format=png&color=000000",
     "description": "A photo and video sharing social networking service owned by Meta Platforms. The app allows users to upload media that can be edited with filters and organized by hashtags and geographical tagging. Posts can be shared publicly or with pre-approved followers. Users can browse other users' content by tag and location, view trending content, like photos, and follow other users to add their content to a personal feed. Key features include Instagram Stories, which allows users to post photos and videos to a sequential feed that disappears after 24 hours, and Reels, its short-form video competitor to TikTok, making it a versatile visual-first platform.",
     "size": 85,
-    "reviews": 142789456,
-    "ratingAvg": 4.4,
+    "reviews": 156789456,
+    "ratingAvg": 4.8,
     "downloads": 2000000000,
     "ratings": [
       { "name": "1 star", "count": 16456789 },
-      { "name": "2 star", "count": 7891234 },
+      { "name": "2 star", "count": 78912341 },
       { "name": "3 star", "count": 12345678 },
       { "name": "4 star", "count": 28987654 },
-      { "name": "5 star", "count": 77108101 }
+      { "name": "5 star", "count": 87108101 }
     ]
   },
   {
@@ -59,16 +59,16 @@
     "companyName": "Spotify AB",
     "image": "https://img.icons8.com/?size=100&id=W9M6LCrTvolF&format=png&color=000000",
     "description": "A proprietary Swedish audio streaming and media services provider. It is one of the largest music streaming service providers, with over 433 million monthly active users, including 188 million paying subscribers, as of June 2022. Spotify offers digital copyright restricted recorded music and podcasts, including more than 82 million songs, from record labels and media companies. As a freemium service, basic features are free with advertisements and limited control, while additional features, such as offline listening and commercial-free listening, are offered via paid subscriptions. Its algorithmically generated playlists like 'Discover Weekly' are highly praised for music discovery.",
-    "size": 75,
+    "size": 150,
     "reviews": 25876123,
-    "ratingAvg": 4.7,
-    "downloads": 1000000000,
+    "ratingAvg": 4.9,
+    "downloads": 5000000000,
     "ratings": [
       { "name": "1 star", "count": 1234567 },
-      { "name": "2 star", "count": 876543 },
+      { "name": "2 star", "count": 87654 },
       { "name": "3 star", "count": 1543210 },
       { "name": "4 star", "count": 4567890 },
-      { "name": "5 star", "count": 17653913 }
+      { "name": "5 star", "count": 18553913 }
     ]
   },
   {
@@ -82,11 +82,11 @@
     "ratingAvg": 4.5,
     "downloads": 1000000000,
     "ratings": [
-      { "name": "1 star", "count": 987654 },
+      { "name": "1 star", "count": 8587654 },
       { "name": "2 star", "count": 543210 },
       { "name": "3 star", "count": 876543 },
       { "name": "4 star", "count": 2345678 },
-      { "name": "5 star", "count": 7703704 }
+      { "name": "5 star", "count": 77037040 }
     ]
   },
   {
@@ -113,10 +113,10 @@
     "companyName": "Google LLC",
     "image": "https://img.icons8.com/?size=100&id=DcygmpZqBEd9&format=png&color=000000",
     "description": "A web mapping platform and consumer application offered by Google. It offers satellite imagery, aerial photography, street maps, 360° interactive panoramic views of streets (Street View), real-time traffic conditions, and route planning for traveling by foot, car, bike, air (in beta), and public transportation. Google Maps' API is widely used by third-party websites and applications to embed mapping functionalities. The app provides turn-by-turn GPS navigation, helps users discover local businesses and points of interest with ratings and reviews, and allows for offline map downloads, making it an indispensable tool for navigation and exploration worldwide.",
-    "size": 110,
+    "size": 200,
     "reviews": 16789123,
-    "ratingAvg": 4.6,
-    "downloads": 5000000000,
+    "ratingAvg": 4.9,
+    "downloads": 5600000000,
     "ratings": [
       { "name": "1 star", "count": 891234 },
       { "name": "2 star", "count": 456789 },
@@ -133,14 +133,14 @@
     "description": "A messaging app for business that connects people to the information they need. It transforms the way organizations communicate by bringing people together to work as one unified team. Slack offers real-time messaging, file sharing, and powerful search. It organizes conversations into dedicated spaces called channels, which can be created for specific projects, topics, or teams. It also integrates with a wide range of third-party services like Google Drive, Trello, and GitHub, allowing teams to centralize their workflows. Features like Huddles for quick audio conversations and Clips for recording video messages enhance collaboration in remote and hybrid work environments.",
     "size": 95,
     "reviews": 1234567,
-    "ratingAvg": 4.4,
+    "ratingAvg": 3.2,
     "downloads": 50000000,
     "ratings": [
       { "name": "1 star", "count": 98765 },
       { "name": "2 star", "count": 54321 },
       { "name": "3 star", "count": 123456 },
-      { "name": "4 star", "count": 345678 },
-      { "name": "5 star", "count": 612347 }
+      { "name": "4 star", "count": 855252 },
+      { "name": "5 star", "count": 912347 }
     ]
   },
   {
@@ -149,16 +149,16 @@
     "companyName": "Canva",
     "image": "https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000",
     "description": "A graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content. The app includes templates for users to use. The platform is free to use and offers paid subscriptions like Canva Pro and Canva for Enterprise for additional functionality. Its intuitive drag-and-drop interface makes design accessible to everyone, regardless of their skill level. Users can access a massive library of fonts, stock photographs, illustrations, and video footage. Canva has become a go-to tool for marketers, educators, and small business owners for creating professional-looking visuals quickly and easily.",
-    "size": 45,
+    "size": 456,
     "reviews": 7891234,
     "ratingAvg": 4.8,
-    "downloads": 100000000,
+    "downloads": 180000000,
     "ratings": [
       { "name": "1 star", "count": 123456 },
       { "name": "2 star", "count": 98765 },
       { "name": "3 star", "count": 234567 },
       { "name": "4 star", "count": 1234567 },
-      { "name": "5 star", "count": 6199879 }
+      { "name": "5 star", "count": 8129879 }
     ]
   },
   {
