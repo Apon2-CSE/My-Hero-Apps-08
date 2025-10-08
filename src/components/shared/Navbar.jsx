@@ -47,7 +47,7 @@ const Navbar = () => {
 
           <div className="flex items-center gap-4">
             <Link
-              to="https://github.com/CodeWithArafat1"
+              to="Nothing"
               target="_blank"
               className="flex items-center gap-2 bg-gradient-to-br from-purple-800 to-purple-400 text-white font-semibold px-4 py-2 rounded-lg hover:from-purple-700 hover:to-purple-500 transition-all focus:outline-none"
             >
